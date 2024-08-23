@@ -1,0 +1,1131 @@
+__label__new_order i want to initiate a new dining order
+__label__Edit_Reservation i need this reservation changed
+__label__cancel_reservation i need to cancel my reservation for friday
+__label__cancel_reservation could you please cancel my booking for tomorrow s breakfast
+__label__check_order provide the status of my order without any delay
+__label__add_order in addition add 1 food and 2 food
+__label__edit_order change my drink to a food and add a food and increase its count by three
+__label__Review dont go here
+__label__add_reservation i need to reserve a spot
+__label__complete_order satisfied with my meal decisions thank you
+__label__add_reservation can we get a table for six at four am
+__label__add_order for the main meal add one food for an appetizer give me one food finally for dessert add a food
+__label__add_reservation can we book a room for five at nine pm
+__label__cancel_reservation i need to cancel my monday evening table
+__label__Edit_Reservation change my booking time immediately
+__label__new_order can you help me with a new food setup
+__label__new_order let s move forward with a new order
+__label__new_order i d like to start a new order process now
+__label__Edit_Reservation could you adjust my booking details
+__label__menu_request could you kindly bring us the menu please
+__label__Review cant say enough good things about this place
+__label__cancel_reservation_ i need to cancel my friday breakfast reservation after 4 days
+__label__check_order determine the status of my order
+__label__complete_order satisfied with my meal decisions thank you
+__label__add_reservation can i book a table for eight at four am
+__label__remove_order don't include food
+__label__new_order i d like to start a fresh order for my meal
+__label__add_order help me to order i need food along with food
+__label__Review the chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside
+__label__welcome morning pleased to see you
+__label__complete_order made my final purchase
+__label__cancel_reservation could you annul my brunch booking for today
+__label__menu_request let us see the menu
+__label__add_order i d like to order a food and a food
+__label__edit_order i'd like to remove the food and add a food
+__label__add_reservation booking a table for ten at six pm
+__label__add_order make for me two more food
+__label__add_reservation booking a table for ten at ten am
+__label__add_order can you please get me two food one food and food
+__label__check_order any new info on my order
+__label__Edit_Reservation please change the reservation immediately
+__label__check_order provide a quick status update on my order
+__label__welcome good day hope you're setting the stage
+__label__add_reservation booking a table for seven at ten am
+__label__check_order check the status of my order and let me know
+__label__check_order check on my order now
+__label__add_order oh sorry i forgot to order a food on the side of the meal
+__label__add_reservation need a reservation for seven at eleven pm
+__label__Review this place is awesome if you want something light and healthy during the summer
+__label__Review i probably won't be back to be honest
+__label__complete_order satisfied with my final choices thank you
+__label__Review this place is pretty good nice little vibe in the restaurant
+__label__remove_order cancel the food
+__label__cancel_reservation_ could you cancel my thursday breakfast booking for next week
+__label__Edit_Reservation please adjust the reservation time immediately
+__label__Review love this place hits the spot when i want something healthy but not lacking in quantity or flavor
+__label__Review our server was very nice and even though he looked a little overwhelmed with all of our needs he stayed professional and friendly until the end
+__label__check_order please confirm the current status of my order for me
+__label__complete_order completed my meal selection
+__label__complete_order wrapped up my meal planning
+__label__welcome hey what's cooking
+__label__welcome hi welcome to the script
+__label__Edit_Reservation could you switch my reservation to a new time
+__label__Review i was proven dead wrong by this sushi bar not only because the quality is great but the service is fast and the food impeccable
+__label__Review pretty good beer selection too
+__label__add_order also give me 4 foods i love this item
+__label__Review on a positive note our server was very attentive and provided great service
+__label__remove_order please omit the food
+__label__Review before i go in to why i gave a 1 star rating please know that this was my third time eating at bachi burger before writing a review
+__label__complete_order completed my meal selection
+__label__add_reservation need a reservation for three at seven pm
+__label__new_order i'm ready to order something
+__label__add_order second order is one vegitables soup plus one food
+__label__Review the server was very negligent of our needs and made us feel very unwelcome i would not suggest this place
+__label__Edit_Reservation change my reservation now
+__label__new_order time to request a new food selection
+__label__menu_request get me the menu
+__label__Review i never come again
+__label__add_order increase the count of foods by three and add one food
+__label__cancel_reservation_ dont forget to cancel my tuesday dinner table reservation for 3person today
+__label__cancel_reservation can you cancel my booking for saturday breakfast
+__label__check_order i want the current update on my order right now
+__label__Review i was mortified
+__label__add_reservation need a reservation for two at seven am
+__label__cancel_reservation i need to cancel my booking for this afternoon
+__label__Review pretty awesome place
+__label__Review the service was great even the manager came and helped with our table
+__label__Review if she had not rolled the eyes we may have stayed not sure if we will go back and try it again
+__label__welcome morning thrilled to see you
+__label__menu_request we want the menu now
+__label__Edit_Reservation can you please change my booking time
+__label__remove_order i don t want the food anymore
+__label__Review one of the few places in phoenix that i would definately go back to again
+__label__add_order i d like to order a food and a food
+__label__add_reservation is it possible to reserve a slot
+__label__add_order for the main meal add one food additionally for an appetizer give me one food
+__label__cancel_reservation please retract my dinner booking for tonight
+__label__check_order let me know the progress of my order
+__label__remove_order take out the food
+__label__new_order let s initiate a new dining order
+__label__complete_order done ordering it
+__label__Edit_Reservation please help me change the booking time
+__label__edit_order edit my drink to be food and dessert to be food and remove food
+__label__remove_order i d like to take off the food
+__label__new_order i m ready to make a new dining order
+__label__Review this is one of the best bars with food in vegas
+__label__check_order i need information on my order s status
+__label__Review everything was good and tasty
+__label__check_order check if there are any changes to my order and let me know
+__label__welcome welcome
+__label__check_order please let me know if there are any updates on my order
+__label__check_order provide me with the exact status of my order now
+__label__new_order i starving i need to eat
+__label__remove_order forget the food
+__label__Edit_Reservation is it possible to move the reservation to another time
+__label__check_order could you please verify the current state of my order
+__label__cancel_reservation i need to call off my lunch table for tomorrow afternoon
+__label__Review we enjoy their pizza and brunch
+__label__remove_order remove food from my order
+__label__remove_order can you please remove the food
+__label__welcome morning thrilled to see you
+__label__edit_order can you please edit the count of food to be two and add one food
+__label__new_order can i order something new
+__label__Review it was attached to a gas station and that is rarely a good sign
+__label__menu_request can you hand over the menu to us
+__label__Edit_Reservation please change my reservation to a different date
+__label__cancel_reservation_ i need to cancel my lunch reservation for next thursday
+__label__remove_order can you please remove the food
+__label__welcome morning thrilled to see you
+__label__welcome hello historian unearthing the past
+__label__Review everyone is very attentive providing excellent customer service
+__label__new_order can we start a new order for today s meal
+__label__complete_order satisfied with my final choices thank you
+__label__edit_order for my order add a food and remove the food
+__label__welcome hello welcome to the galaxy
+__label__edit_order i d like to substitute the food with food
+__label__check_order give me the order status without any delay
+__label__check_order can you please find out where my order stands
+__label__welcome hey how's the humidity
+__label__check_order confirm the status of my order and get back to me
+__label__welcome hello welcome to the galaxy
+__label__complete_order made my final call on the menu
+__label__add_reservation reserving a spot for eight at five am
+__label__menu_request would you kindly hand us the menu please
+__label__Review i started this review with two stars but i'm editing it to give it only one
+__label__add_reservation reserving a spot for seven at one pm
+__label__menu_request would it be possible to get a menu
+__label__welcome good day hope you're leaving a mark
+__label__Edit_Reservation tell me if i can change my reservation
+__label__Review i had about two bites and refused to eat anymore
+__label__remove_order can you take out the food
+__label__add_reservation i need to schedule a session
+__label__Review it was awesome
+__label__cancel_reservation please cancel my table for lunch
+__label__edit_order i want to replace food with two foods
+__label__add_reservation can i book a table for one at three pm
+__label__complete_order all set no more changes
+__label__Edit_Reservation update my reservation to a later time
+__label__check_order check on my order and let me know the details
+__label__edit_order i want to replace my entire order with two foodes and one food
+__label__add_reservation can i book a table for three at nine o'clock
+__label__menu_request could you provide us with the menu please
+__label__complete_order made my final purchase
+__label__menu_request can i have the menu
+__label__add_order give me this order 4 foodes one food and three foodes additionally i d like 2 foods and two foods
+__label__Review the jamaican mojitos are delicious
+__label__edit_order i want to switch my main meal to food to food
+__label__new_order let s initiate a new dining order process
+__label__check_order report the current status of my order to me now
+__label__edit_order edit the count of food to be two and food to be four
+__label__new_order let's start a new food order session
+__label__welcome good day hope you're heating up
+__label__Review if you want to wait for mediocre food and downright terrible service then this is the place for you
+__label__Review hell no will i go back
+__label__Edit_Reservation please adjust the booking for me
+__label__Review i liked the patio and the service was outstanding
+__label__edit_order i'd like to replace the food with a fanta bottle
+__label__Edit_Reservation please let me know how to change my reservation
+__label__menu_request could you let us view the menu
+__label__welcome hi nice to bump into you
+__label__check_order get the details of my order status right now
+__label__check_order review my order status and provide an update
+__label__Edit_Reservation adjust the reservation time
+__label__remove_order i'd like to remove the food
+__label__new_order please help me kick off a new dining request
+__label__Review eew this location needs a complete overhaul
+__label__add_reservation booking a table for three at one pm
+__label__welcome good day hope you're in high spirits
+__label__Review we literally sat there for 20 minutes with no one asking to take our order
+__label__remove_order no more food please
+__label__menu_request could i have the menu if its not too much trouble
+__label__menu_request could we see the menu
+__label__add_order try to help me to add a food to my order
+__label__add_order can i get a food with a side of food
+__label__Review it's not hard to make a decent hamburger
+__label__complete_order finalized my meal choices
+__label__complete_order satisfied with my selections thank you
+__label__Review from what my dinner companions told me everything was very fresh with nice texture and taste
+__label__Review overall i like there food and the service
+__label__Review but now i was completely grossed out
+__label__Edit_Reservation can you please assist in changing my reservation time
+__label__add_reservation need a reservation for one at seven pm
+__label__welcome hey what's new
+__label__Review never going back
+__label__cancel_reservation i need to cancel my reservation for thursday lunch
+__label__welcome hey
+__label__complete_order made my final purchase
+__label__add_order i forget to order a food with my order can you add it
+__label__check_order give me a detailed status on my order
+__label__welcome hello perfumer fragrance crafted
+__label__Review all in all i can assure you i'll be back
+__label__edit_order could you make my drink be both fanta bottle and food
+__label__new_order please start a new order for me
+__label__Review there is not a deal good enough that would drag me into that establishment again
+__label__new_order can you help me with a new dining setup
+__label__menu_request can i take a look at the menu please
+__label__add_reservation reserving a spot for five at nine am
+__label__remove_order i d like to take off the food
+__label__Review they could serve it with just the vinaigrette and it may make for a better overall dish but it was still very good
+__label__new_order i d like to set up a new meal request
+__label__welcome hey there stranger
+__label__welcome morning delighted to see you
+__label__menu_request could you shoot us the menu
+__label__remove_order could you take off the food and food from my order
+__label__add_reservation can we get a table for twenty pm
+__label__new_order can we begin a new order process
+__label__menu_request provide the menu
+__label__menu_request give me that menu immediately
+__label__Review the foods everyone are raving about taste like a sugary disaster tailored to the palate of a six year old
+__label__check_order check the progress of my order and tell me the details
+__label__remove_order please cancel the food
+__label__welcome hey
+__label__Edit_Reservation could you tweak my reservation please
+__label__check_order please update me on the status of my order
+__label__menu_request can you let us see the menu
+__label__remove_order delete food from my order
+__label__check_order please check if my order has been processed
+__label__cancel_reservation please cancel my reservation for lunch today
+__label__new_order let s initiate a fresh food order
+__label__Edit_Reservation update my reservation to a different time
+__label__Edit_Reservation is there a way to change the reservation details
+__label__edit_order please can you change the order to be four food and two food
+__label__Review my friend loved the salmon tartar
+__label__complete_order finished deciding on my meals
+__label__Edit_Reservation could you please let me know how to change the reservation
+__label__Edit_Reservation could you see if i can adjust my reservation
+__label__new_order i d like to get a new order started
+__label__check_order please verify the current status of my order
+__label__menu_request may we see the menu at your earliest convenience please
+__label__menu_request would you mind if we took a look at the menu
+__label__welcome morning delighted to see you
+__label__add_order three for each item food food food and food
+__label__Review i can't tell you how disappointed i was
+__label__menu_request give menu
+__label__add_reservation can we get a table for six at eight am
+__label__complete_order wrapped up my meal planning
+__label__Review i love the pho and the spring rolls oh so yummy you have to try
+__label__add_reservation booking a table for six at six pm
+__label__cancel_reservation_ please cancel my lunch reservation for next wednesday
+__label__Edit_Reservation can you help me change the reservation time
+__label__cancel_reservation_ please cancel my dinner booking for next friday night
+__label__Review what happened next was pretty off putting
+__label__new_order ready to begin a new order process
+__label__complete_order made my final decision on the menu
+__label__edit_order edit the count of food to be five and add one food
+__label__remove_order remove food from my order
+__label__complete_order successfully placed my order
+__label__new_order i m looking to place a new order
+__label__Review it is perfect for a sit down family meal or get together with a few friends
+__label__Review not my thing
+__label__Review it was a pale color instead of nice and char and has no flavor
+__label__remove_order i'd like to remove the food
+__label__edit_order can you add a food and remove the food
+__label__add_order ok lets add one dessert food too also give me one delicious food
+__label__Edit_Reservation is it possible to modify my reservation
+__label__cancel_reservation_ please cancel my friday dinner booking for next week
+__label__new_order let s start a new food order process
+__label__Review food was great and so was the serivce
+__label__add_reservation reserving a spot for nine at nine am
+__label__complete_order successfully placed my order
+__label__menu_request could you bring me the menu please
+__label__add_reservation need a reservation for nine at ten am
+__label__welcome good day hope you're setting the stage
+__label__welcome hello how are you today
+__label__complete_order satisfied with my meal decisions thank you
+__label__Edit_Reservation modify my booking
+__label__cancel_reservation i need to cancel my lunch table for tomorrow
+__label__Review this place is hands down one of the best places to eat in the phoenix metro area
+__label__welcome hello welcome to the journey
+__label__Review the potato chip order was sad i could probably count how many chips were in that box and it was probably around 12
+__label__add_reservation i want to schedule a consultation
+__label__Review great place to have a couple drinks and watch any and all sporting events as the walls are covered with tv's
+__label__Review i think not again
+__label__Edit_Reservation is it possible to adjust my reservation please
+__label__Review the selection of food was not the best
+__label__add_order my order is two foods 4 foods and food
+__label__new_order could you start a new order for me
+__label__new_order i m looking to set up a new food request
+__label__welcome hi welcome to the sky
+__label__add_reservation can we get a table for ten at eight am
+__label__complete_order no more items to add
+__label__Review the service was poor and thats being nice
+__label__menu_request would you kindly bring the menu please
+__label__complete_order made my final meal selection
+__label__new_order i need to initiate a new order for today
+__label__Review they brought a fresh batch of fries and i was thinking yay something warm but no
+__label__Review hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick
+__label__edit_order substitute the food with a food and edit the food to be food
+__label__Review probably never coming back and wouldn't recommend it
+__label__new_order i m ready to get a new meal request started
+__label__new_order proceed with a new order
+__label__add_reservation reserving a spot for six at five am
+__label__add_reservation need a reservation for six at eleven pm
+__label__check_order i need to know where my order is right now asap
+__label__add_order i need to order a food and make it spicy
+__label__add_order second order is one vegitables soup plus one food
+__label__add_reservation reserving a spot for one at five pm
+__label__Review i vomited in the bathroom mid lunch
+__label__Review it kept getting worse and worse so now i'm officially done
+__label__complete_order order placed ready to savor
+__label__Review we won't be going back
+__label__Review unfortunately it was not good
+__label__complete_order finished my meal selection
+__label__check_order get back to me with the status of my order pronto
+__label__add_order three for each item food food food and food also add one food
+__label__menu_request might we see the menu when you get a chance please
+__label__check_order how's my order doing
+__label__Review your staff spends more time talking to themselves than me
+__label__menu_request hey could you pop the menu over
+__label__remove_order forget the food
+__label__add_reservation booking a table for four at two am
+__label__add_reservation i need to make a booking
+__label__Review update went back for a second time and it was still just as amazing
+__label__add_reservation can i book a table for six at four am
+__label__check_order could you please check and report back on my order status
+__label__Review this really is how vegas fine dining used to be right down to the menus handed to the ladies that have no prices listed
+__label__add_order add two fanta bottle and dont forget to add one food
+__label__menu_request got a menu we can look at
+__label__Edit_Reservation could you help me switch the reservation time
+__label__remove_order remove food from my order
+__label__Review sorry i will not be getting food from here anytime soon
+__label__Edit_Reservation please modify my reservation now
+__label__Review we aren't ones to make a scene at restaurants but i just don't get it definitely lost the love after this one
+__label__Review it took over 30 min to get their milkshake which was nothing more than chocolate milk
+__label__cancel_reservation i won t be able to make it please cancel my table
+__label__check_order got any updates on my order s status
+__label__cancel_reservation kindly remove my table booking for tomorrow s lunch
+__label__new_order could you help me with a new meal setup
+__label__complete_order finished reviewing the menu
+__label__new_order can we get a fresh order going for dinner
+__label__Review the first time i ever came here i had an amazing experience i still tell people how awesome the duck was
+__label__Review just spicy enough perfect actually
+__label__remove_order remove food from my order
+__label__Edit_Reservation could you help me switch the reservation time please
+__label__complete_order order confirmed satisfaction achieved
+__label__Review i am far from a sushi connoisseur but i can definitely tell the difference between good food and bad food and this was certainly bad food
+__label__check_order please confirm the current status of my order
+__label__add_order i'd like to order two food one food and 3 food please
+__label__edit_order change food with food but for fooda increase the count to be four
+__label__check_order can you please provide an update on my order
+__label__new_order can i initiate a new order process
+__label__Edit_Reservation please change my booking time immediately
+__label__add_order 3 vegitables soup
+__label__complete_order secured my meal orders
+__label__edit_order i'd like to modify the count of foods to two and add one food
+__label__add_reservation can we get a table for seven at five am
+__label__add_order also please i want one more food
+__label__Review each day of the week they have a different deal and it's all so delicious
+__label__edit_order i'd like to replace the food with a food
+__label__menu_request might we trouble you for the menu
+__label__check_order tell me about the current stage of my order
+__label__add_reservation can we get a table for four at eight am
+__label__cancel_reservation i need to cancel my booking for brunch tomorrow
+__label__check_order confirm the current status of my order for me
+__label__cancel_reservation_ i need to cancel my lunch table for next thursday
+__label__edit_order i d like to replace the food with one food and one food
+__label__check_order could you please find out where my order is right now
+__label__welcome hey how's life treating you
+__label__welcome hey what's the verdict
+__label__Review it was equally awful
+__label__add_order two foods additionally
+__label__Review this is a really fantastic thai restaurant which is definitely worth a visit
+__label__complete_order all set no more changes
+__label__new_order i d like to get a new meal request underway
+__label__add_reservation need a reservation for two at seven pm
+__label__Edit_Reservation may i kindly request a change to my reservation
+__label__new_order ready to get a new meal order started
+__label__Review we waited for thirty minutes to be seated although there were 8 vacant tables and we were the only folks waiting
+__label__menu_request can you help us out with the menu
+__label__new_order i need to set up a new meal request
+__label__remove_order cancel the food
+__label__Edit_Reservation help me update my booking
+__label__cancel_reservation please cancel my table for this evening
+__label__Review have been going since 2007 and every meal has been awesome
+__label__add_reservation booking a table for two at ten am
+__label__Review kids pizza is always a hit too with lots of great side dish options for the kiddos
+__label__Edit_Reservation change the booking for me now please
+__label__Review i had the opportunity today to sample your amazing pizzas
+__label__edit_order i want to change the order to be one food and three food
+__label__Review the warm beer didn't help
+__label__complete_order successfully placed my order
+__label__check_order track existing order
+__label__check_order check my order status and let me know asap
+__label__Edit_Reservation please update my reservation
+__label__complete_order finished deciding on my dishes
+__label__remove_order forget the food
+__label__Edit_Reservation can you adjust my booking for me
+__label__new_order can you help with beginning a fresh order
+__label__Edit_Reservation can you help me change my reservation please
+__label__cancel_reservation i need to call off my friday lunch table
+__label__new_order please help me place a new dining request
+__label__new_order i need to place a new food request
+__label__complete_order satisfied with my meal picks thank you
+__label__remove_order remove food from my order
+__label__add_order for main meal lets add pizza so give me two food for appetizer add one food
+__label__remove_order remove food from my order
+__label__add_order i d like to order a food and a food
+__label__menu_request why is the menu not here yet
+__label__menu_request provide the menu now
+__label__menu_request may i request the menu please
+__label__Review the sides are delish mixed mushrooms yukon gold puree white corn beateous
+__label__add_reservation booking a table for eight at six am
+__label__welcome hello chocolatier confectionery magic
+__label__menu_request give us the menu
+__label__new_order please assist in creating a new food order
+__label__check_order how s it going with my order
+__label__cancel_reservation i need to cancel my dinner table for tomorrow night
+__label__edit_order please change the order to have two foods instead of one
+__label__Review perhaps i caught them on an off night judging by the other reviews but i'm not inspired to go back
+__label__remove_order exclude the food
+__label__Review crostini that came with the salad was stale
+__label__add_order help me to order i need one vegitables soup plus three foods
+__label__Edit_Reservation please adjust my reservation immediately
+__label__check_order please check on my order and let me know the details
+__label__complete_order satisfied now thank you
+__label__welcome hey what's the review
+__label__edit_order could you please change my side from food to a vegitables soup
+__label__check_order please let me know where my order is right now
+__label__new_order let's initiate a cart
+__label__Edit_Reservation update my reservation details
+__label__menu_request could you help us with the menu
+__label__cancel_reservation_ dont forget to cancel my sunday afternoon booking for this week i cant come
+__label__cancel_reservation_ i need to cancel my wednesday dinner booking after 2 days
+__label__edit_order can you adjust the count of foods to be four and add one food
+__label__add_reservation booking a table for eight at ten am
+__label__welcome hey what's the verdict
+__label__check_order check the order status
+__label__Edit_Reservation please update the reservation to include two more people
+__label__edit_order remove the food and add two food
+__label__Review i love the fact that everything on their menu is worth it
+__label__Review the food came out at a good pace
+__label__welcome morning delighted to catch up with you
+__label__complete_order finished my meal selection
+__label__add_reservation can we get a table for four at four pm
+__label__add_order without changing any item just add two foodes
+__label__complete_order finished deciding on my meals
+__label__edit_order i d like to edit my dessert to be a food and add a food
+__label__cancel_reservation can you cancel my table for thursday
+__label__welcome good day champ
+__label__add_order one more vegitables soup and exactly add two foodes for appetizer
+__label__Edit_Reservation help me change the booking time
+__label__add_order two food 1 food and 2 food this is my order if you can add food
+__label__Review i won't be back
+__label__add_reservation can i book a table for seven at noon
+__label__welcome good day golfer hole in one
+__label__complete_order done with the ordering
+__label__edit_order please modify my entire order to be three foodes and two foods
+__label__Review i will never go back to this place and will never ever recommended this place to anyone
+__label__check_order i need a fast update on my order status
+__label__new_order i d like to start a fresh meal order
+__label__cancel_reservation i need to cancel my reservation for friday night
+__label__Review very very disappointed ordered the 35 big bay plater
+__label__Review then as if i hadn't wasted enough of my life there they poured salt in the wound by drawing out the time it took to bring the check
+__label__Review the heart attack grill in downtown vegas is an absolutely flat lined excuse for a restaurant
+__label__Review this place has it
+__label__new_order let s initiate a fresh food request
+__label__Review first the bathrooms at this location were dirty seat covers were not replenished just plain yucky
+__label__add_order give me a delicious food
+__label__remove_order no more food please
+__label__menu_request bring menu
+__label__remove_order exclude the food
+__label__Edit_Reservation help me find a way to update my reservation
+__label__edit_order remove the food and add a food
+__label__new_order please start a new dining request for me
+__label__add_order 4 vegitables soup plus with each soap add food
+__label__welcome hey journalist hot off the press
+__label__complete_order bought what i needed
+__label__add_order can i get 3 vegitables soups along with one food and 1 fanta bottle
+__label__welcome hey missed ya
+__label__Review this is a disgrace
+__label__new_order can you assist in initiating a new food order
+__label__cancel_reservation can you cancel my booking for dinner tomorrow
+__label__Review the food amazing
+__label__Review for that price i can think of a few place i would have much rather gone
+__label__Edit_Reservation can you check if it s possible to change my reservation please
+__label__Edit_Reservation adjust my reservation immediately
+__label__Review the food was barely lukewarm so it must have been sitting waiting for the server to bring it out to us
+__label__edit_order can you switch the food with a food please
+__label__cancel_reservation i need to cancel my table for lunch tomorrow
+__label__Review a great touch
+__label__edit_order please change the count of foodes to four and add one food
+__label__menu_request would you be able to share the menu
+__label__cancel_reservation_ please cancel my breakfast table for next wednesday morning
+__label__check_order please determine the progress of my order
+__label__Review interesting decor
+__label__new_order can i order something new
+__label__Review the seasonal fruit was fresh white peach puree
+__label__Review the cashier was friendly and even brought the food out to me
+__label__cancel_reservation please cancel my saturday dinner reservation
+__label__remove_order cancel the food
+__label__cancel_reservation_ how can i rescind my booking
+__label__check_order i need to know the status of my order immediately
+__label__Review give it a try you will be happy you did
+__label__cancel_reservation_ can you please cancel my dinner plans for next monday night
+__label__new_order i m ready to initiate a fresh food request
+__label__Edit_Reservation can you please help me change the reservation time
+__label__cancel_reservation please cancel my table for tuesday dinner
+__label__edit_order i want to change my soup to a food and add a food
+__label__Edit_Reservation please change the date of my reservation
+__label__Edit_Reservation please adjust the reservation for me
+__label__complete_order satisfied with my final choices thank you
+__label__new_order i d like to start a new food order now
+__label__edit_order i want to adjust the count of food to be three and add two foods
+__label__menu_request might you assist us with the menu please
+__label__check_order provide a detailed status of my order
+__label__menu_request how about you show us the menu
+__label__menu_request is it possible to see the menu please
+__label__Edit_Reservation help me move my reservation to a new time
+__label__cancel_reservation i need to cancel my booking for this weekend
+__label__welcome hello old chap
+__label__new_order let s get a new order underway
+__label__check_order please check on the status of my order for me
+__label__remove_order can you please remove the food
+__label__new_order i m ready to initiate a new meal order
+__label__Review we started with the tuna sashimi which was brownish in color and obviously wasn't fresh
+__label__welcome hi welcome to the sky
+__label__new_order please assist me in starting a new food order
+__label__complete_order no more adjustments thanks
+__label__welcome hi nice to bump into you
+__label__remove_order i d like to take off the food
+__label__check_order look into the current status of my order
+__label__Review unfortunately it only set us up for disapppointment with our entrees
+__label__complete_order no more browsing thank you
+__label__welcome top of the morning to you
+__label__new_order let s initiate a fresh food order now
+__label__Review this is a good joint
+__label__welcome hello dreamer what's on the agenda today
+__label__menu_request can i have a look at the menu
+__label__Edit_Reservation would it be possible to update my reservation
+__label__complete_order satisfied with my meal decisions thank you
+__label__menu_request we would like the menu please
+__label__complete_order no more browsing for me thanks
+__label__add_order unbelievable your pizza so delicious so give one more food
+__label__welcome morning glad to see you again
+__label__Edit_Reservation can you verify if my reservation can be changed
+__label__Review any grandmother can make a roasted chicken better than this one
+__label__menu_request do you mind passing the menu to us
+__label__add_order 3 food and the rest of order still the same count
+__label__remove_order i d like to take off the food
+__label__menu_request could you swing the menu our way
+__label__edit_order please remove the food and add a food
+__label__check_order determine if there are any updates about my order
+__label__menu_request would it be too much to ask for the menu
+__label__menu_request may i ask to see the menu please
+__label__remove_order exclude the food
+__label__Review my girlfriend's veal was very bad
+__label__check_order how s my order coming along these days
+__label__Edit_Reservation change my booking now
+__label__menu_request get the menu here now
+__label__check_order please let me know the progress of my order
+__label__Edit_Reservation is there a way to update the booking time please
+__label__Review so good i am going to have to review this place twice once hereas a tribute to the place and once as a tribute to an event held here last night
+__label__new_order ready to start a new meal order
+__label__new_order i want to initiate a fresh order
+__label__welcome hi welcome to the spotlight
+__label__add_reservation need a reservation for three at seven am
+__label__Edit_Reservation could you please assist in rescheduling the reservation
+__label__Review do yourself a favor and stay away from this dish
+__label__new_order can we begin a new meal order now
+__label__add_order additionally four food and give me one more this delicious food
+__label__Review i'll definitely be in soon again
+__label__cancel_reservation_ i need to cancel my brunch booking for next saturday
+__label__menu_request could you help us access the menu please
+__label__remove_order remove food from my order
+__label__menu_request may i request a look at the menu please
+__label__menu_request where s our menu hurry up
+__label__edit_order switch the dessert to food and decrease its count to one and remove food
+__label__add_reservation reserving a spot for eight at nine pm
+__label__check_order update me on the status of my order whenever possible
+__label__add_reservation reserving a spot for two at five pm
+__label__welcome hey adventurer ready for the next challenge
+__label__Review the decor is nice and the piano music soundtrack is pleasant
+__label__remove_order no more food please
+__label__welcome morning delighted to see you
+__label__cancel_reservation i need to retract my friday breakfast reservation
+__label__remove_order cancel the food
+__label__check_order check the status of my order and inform me
+__label__add_reservation can i book a table for one at one am
+__label__add_reservation need a reservation for three at fifteen pm
+__label__welcome good morning hope you're getting rave reviews
+__label__Review just had lunch here and had a great experience
+__label__Edit_Reservation i d like to push my reservation to a later time please
+__label__menu_request might i trouble you for the menu please
+__label__complete_order picked what i needed
+__label__new_order i'd like to launch a fresh food order
+__label__remove_order cancel the food
+__label__remove_order take out the food
+__label__add_order moreover 4 food and also 4 food
+__label__cancel_reservation i need to cancel my reservation for saturday
+__label__check_order i would appreciate it if you could check the status of my order
+__label__complete_order made my final choice no changes
+__label__Review we won't be going back anytime soon
+__label__welcome hello welcome back
+__label__check_order report the status of my order to me right away
+__label__menu_request why haven t we seen the menu yet
+__label__Review their monster chicken fried steak and eggs is my all time favorite
+__label__Edit_Reservation may i request a change to my reservation please
+__label__cancel_reservation please cancel my friday dinner booking
+__label__Review the lighting is just dark enough to set the mood
+__label__check_order please clarify the current status of my order for me
+__label__complete_order all set no more changes
+__label__add_reservation need a reservation for three at three am
+__label__Review and considering the two of us left there very full and happy for about 20 you just can't go wrong
+__label__welcome morning pleased to see you
+__label__welcome good morning hope you're burning bright
+__label__add_reservation booking a table for four at ten am
+__label__cancel_reservation i need to cancel my table for brunch
+__label__complete_order satisfied with my final choices thank you
+__label__check_order check the order status for me
+__label__cancel_reservation_ im sorry to tell you that i want to cancel my friday lunch table for next week party i know its very beautiful but i cant come
+__label__menu_request could you fetch the menu for us real quick
+__label__remove_order cancel the food
+__label__remove_order i d like to take off the food
+__label__add_order second order is one food plus one food
+__label__add_reservation booking a table for four at six pm
+__label__new_order could you assist with starting a new order
+__label__edit_order can you increase the count of food to five and reduce the food to one
+__label__remove_order i d like to cancel the food
+__label__cancel_reservation please cancel my table for saturday
+__label__menu_request could you pull up the menu for us
+__label__new_order please start a fresh order for me
+__label__Review it was a drive to get there
+__label__add_order take this order two foodes 2 foodes and two foods do it fast please
+__label__edit_order substitute the food with a food and edit my side to be a food
+__label__remove_order please cancel the food
+__label__remove_order could you please remove the food from my order
+__label__check_order review and inform me about my order status
+__label__complete_order wrapped up my meal planning
+__label__Review i have been in more than a few bars in vegas and do not ever recall being charged for tap water
+__label__remove_order don't include food
+__label__remove_order please omit the food
+__label__add_order my order is two foods 4 foods and food
+__label__complete_order made my final purchase
+__label__menu_request could you let us view the menu please
+__label__Review i'm not impressed with the concept or the food
+__label__menu_request could we ask to see the menu when you're ready
+__label__add_order unbelievable your pizza is so delicious so give me one more food
+__label__new_order i m here to make a new order
+__label__new_order please initiate a new meal request
+__label__Review it's a great place and i highly recommend it
+__label__Edit_Reservation could you please help me change my reservation
+__label__Edit_Reservation please adjust the time of my reservation
+__label__welcome good day hope you're soaring high
+__label__Review this was like the final blow
+__label__Review great food and great service in a clean and friendly setting
+__label__cancel_reservation i need to cancel my dinner table for tomorrow
+__label__Review i love the owner chef his one authentic japanese cool dude
+__label__cancel_reservation i need to call off my evening booking
+__label__complete_order finalized my meal choices
+__label__check_order get me the details on my order status now
+__label__Review the cocktails are all handmade and delicious
+__label__add_order please add a food and a food to my order
+__label__new_order help me set up a fresh food order
+__label__welcome hi welcome to the yarn
+__label__welcome good morning how are you
+__label__check_order what s the latest on my order s progress
+__label__remove_order can you please remove the food
+__label__complete_order not considering more changes thanks
+__label__menu_request could i have the menu brought over
+__label__add_reservation reserving a spot for seven at five pm
+__label__remove_order please cancel the food
+__label__add_order also give me 4 foods i love this item
+__label__menu_request may we see the menu at your earliest convenience
+__label__cancel_reservation i need to cancel my reservation for saturday night
+__label__complete_order made my final selection no regrets
+__label__complete_order completed my meal selection
+__label__add_order please prepare 2 food along with one fanta bottle and 1 food for me
+__label__remove_order don't include food
+__label__welcome good morning hope you're feeling fantastic
+__label__cancel_reservation please cancel my booking for saturday morning
+__label__remove_order delete food from my order
+__label__check_order please let me know the status of my order when you have a chance
+__label__menu_request could we kindly ask for the menu
+__label__welcome morning thrilled to see you
+__label__edit_order edit my drink to be food and dessert to be food
+__label__check_order clarify the status of my order
+__label__Review the bathrooms are clean and the place itself is well decorated
+__label__Edit_Reservation shift my reservation time
+__label__check_order provide an immediate update on my order
+__label__add_reservation need a reservation for one at three am
+__label__complete_order picked what i needed
+__label__welcome hello doctor how can i assist you today
+__label__welcome yo
+__label__check_order i need a status update on my order immediately
+__label__add_order i want 1 food 2 food and one food do it fast plz
+__label__cancel_reservation i need to cancel my reservation for friday breakfast
+__label__Review how can you call yourself a steakhouse if you can't properly cook a steak i don't understand
+__label__Edit_Reservation can you update my reservation
+__label__Review the only good thing was our waiter he was very helpful and kept the bloddy mary's coming
+__label__menu_request show us the menu at once
+__label__complete_order ordering mission accomplished
+__label__complete_order wrapped up my order
+__label__edit_order can you change my order to be one food and four foodes
+__label__Review terrible service
+__label__complete_order satisfied with my final choices thank you
+__label__new_order please assist me in placing a fresh order
+__label__remove_order please cancel the food
+__label__welcome morning economist market trends analyzed
+__label__check_order how s the progress on my order
+__label__welcome hey what's the scene
+__label__complete_order finished my purchase
+__label__Review i can say that the desserts were yummy
+__label__add_reservation can we get a table for seven at midnight
+__label__check_order what s the update on my order today
+__label__add_order i need to order two food and one food as well
+__label__Review in fact i'm going to round up to 4 stars just because she was so awesome
+__label__welcome hi there stranger long time no see
+__label__Review all in all an excellent restaurant highlighted by great service a unique menu and a beautiful setting
+__label__Review i would definitely recommend the wings as well as the pizza
+__label__welcome hello welcome to the dialogue
+__label__Review i dressed up to be treated so rudely
+__label__add_reservation need a reservation for two at midnight
+__label__new_order help me start a fresh dining order
+__label__Review the worst was the salmon sashimi
+__label__cancel_reservation i need to cancel my table for this friday evening
+__label__complete_order order submitted
+__label__add_reservation booking a table for one at six pm
+__label__check_order i want to know the status of my order right away
+__label__add_order can i get 2 food along with one food and 1 food
+__label__Review i really do recommend this place you can go wrong with this donut place
+__label__welcome salutations
+__label__add_reservation can we get a table for four at four o'clock
+__label__cancel_reservation_ i won t be able to attend so please cancel my reservation for tomorrow s lunch
+__label__add_reservation can we get a table for eight at four pm
+__label__add_reservation booking a table for five at two pm
+__label__check_order please look into the status of my order and update me
+__label__remove_order remove food from my order
+__label__Review food was good service was good prices were good
+__label__Review overall a great experience
+__label__remove_order i d like to take off the food
+__label__menu_request could we ask for the menu at your convenience please
+__label__cancel_reservation please cancel my table for lunch tomorrow
+__label__complete_order sealed the purchase
+__label__cancel_reservation can you cancel my reservation for tonight
+__label__cancel_reservation i need to retract my wednesday brunch reservation
+__label__menu_request could i see the menu
+__label__edit_order substitute the food with a food and instead of food add food
+__label__menu_request may we kindly ask to see the menu please
+__label__cancel_reservation i have to cancel my dinner plans
+__label__Review however there was so much garlic in the fondue it was barely edible
+__label__remove_order i'd like to remove dessert like food and food
+__label__menu_request get the menu
+__label__check_order i need to know where my order stands immediately
+__label__cancel_reservation i need to cancel my brunch reservation for tomorrow
+__label__add_reservation need a reservation for seven at eleven am
+__label__remove_order i'd like to remove the food
+__label__Review the nachos are a must have
+__label__check_order please inform me about any recent changes in my order s status
+__label__new_order please help me with a fresh order
+__label__menu_request may i see the menu
+__label__add_order for main meal add one food then for appitizer i want two food finally for dessert give me food
+__label__cancel_reservation i need to retract my tuesday dinner booking
+__label__welcome hey comedian got a joke ready
+__label__Review the sangria was about half of a glass wine full and was 12 ridiculous
+__label__menu_request get us the menu without further delay
+__label__edit_order i'd like to change the order to be two food and five food and remove fanta bottle
+__label__menu_request could you show us the menu please
+__label__welcome hey carpenter nailing it
+__label__Review check it out
+__label__Review very slow at seating even with reservation
+__label__remove_order remove my previous order
+__label__check_order get the current status of my order and report back
+__label__edit_order substitute the food with a food
+__label__new_order can you help me set up a new order
+__label__Edit_Reservation please help me with a reservation edit
+__label__check_order please check the order status for me
+__label__remove_order cancel the food from my order
+__label__Review the food was great as always compliments to the chef
+__label__check_order please find out the status of my order
+__label__cancel_reservation_ please cancel my monday breakfast reservation for next month
+__label__menu_request may we get the menu
+__label__add_reservation i want to make a dinner reservation
+__label__check_order let me know where my order is right now
+__label__Edit_Reservation update the reservation time to 6 pm
+__label__complete_order completed my meal selection
+__label__cancel_reservation can you cancel my breakfast table for today
+__label__complete_order made my final meal selection
+__label__Review went for lunch service was slow
+__label__add_reservation booking a table for eight at two am
+__label__remove_order delete food from my order
+__label__welcome hi welcome to the cosmos
+__label__welcome hey what brings you here
+__label__edit_order for my order instead of food add food
+__label__cancel_reservation_ i need to cancel my brunch booking for next monday
+__label__check_order update me on my order status right away or asap
+__label__check_order any word on how my order s doing
+__label__edit_order i want to replace the food with a food
+__label__welcome hi nice to bump into you
+__label__Edit_Reservation edit the reservation details for me
+__label__Edit_Reservation please verify if the reservation time can be changed
+__label__complete_order satisfied with my final choices thank you
+__label__check_order please check if my order is ready
+__label__menu_request would it be alright if we requested the menu please
+__label__add_order the last order is 4 foods and one fanta bottle
+__label__remove_order delete my order
+__label__welcome hi opera singer center stage
+__label__add_order add two food and also vegitables soup one
+__label__check_order i need urgent information on my order s status
+__label__menu_request may i trouble you for the menu
+__label__add_order can i get a food with a side of food
+__label__Edit_Reservation i'd appreciate it if you could change my reservation please
+__label__add_order make two foods for the main meal too please
+__label__menu_request bring us the menu right this minute
+__label__add_reservation can i book a table for eight at seven am
+__label__Edit_Reservation could you tell me how to edit my reservation
+__label__Review never again will i be dining at this place
+__label__welcome hi welcome to the spotlight
+__label__remove_order can you please remove the food
+__label__add_reservation reserving a spot for four at nine am
+__label__cancel_reservation please cancel my reservation for this evening
+__label__new_order i want to initiate a new order for my meal
+__label__add_order finally for dessert add food
+__label__complete_order no additional items required
+__label__new_order i m set to make a new order for my meal
+__label__cancel_reservation please void my breakfast table for tomorrow morning
+__label__complete_order finished selecting my order item
+__label__check_order provide me with the status of my order
+__label__cancel_reservation_ please cancel my breakfast table for next thursday morning
+__label__new_order i want to start a fresh order for my meal
+__label__check_order i need a prompt update on my order status now
+__label__menu_request can we check out the menu when you're free
+__label__menu_request can i receive the menu please
+__label__Review after i pulled up my car i waited for another 15 minutes before being acknowledged
+__label__cancel_reservation_ im so busy i need to cancel my table for tuesday afternoon
+__label__edit_order can you switch the food with a food please
+__label__welcome morning welcome to the ride
+__label__check_order check the status of my order and let me know what s happening
+__label__welcome hello welcome to the adventure
+__label__complete_order completed the ordering
+__label__complete_order all done with my meal planning
+__label__add_order give me 3 more food plus something sweet so i want food
+__label__new_order i m ready to set up a new meal request
+__label__Review wow loved this place
+__label__Review now the burgers aren't as good the pizza which used to be amazing is doughy and flavorless
+__label__Review all i have to say is the food was amazing
+__label__menu_request can you pop over the menu
+__label__new_order i d like to begin a fresh meal request
+__label__menu_request any chance you could drop off the menu
+__label__Review i guess maybe we went on an off night but it was disgraceful
+__label__welcome morning gardener how's your green thumb doing
+__label__new_order i d like to start a new dining order
+__label__add_reservation need a reservation for four at seven pm
+__label__add_order i d like to place an order for a food and a food
+__label__complete_order wrapped up my dining experience
+__label__complete_order successfully placed my order
+__label__new_order i d like to set up a new dining request
+__label__Review as always the evening was wonderful and the food delicious
+__label__add_order i d like to include afood with my meal
+__label__menu_request may i have the menu if its not too much trouble
+__label__Review great food and service huge portions and they give a military discount
+__label__new_order let's add cart
+__label__Edit_Reservation is there a way to modify my booking please
+__label__Review this place was such a nice surprise
+__label__new_order 
+__label__add_order without changing any item just add two food
+__label__complete_order done selecting items order in
+__label__welcome good evening ma'am sir
+__label__menu_request can we have the menu please
+__label__Review i miss it and wish they had one in philadelphia
+__label__Review although i very much liked the look and sound of this place the actual experience was a bit disappointing
+__label__Review this place deserves one star and 90 has to do with the food
+__label__add_reservation booking a table for two at five pm
+__label__cancel_reservation_ could you cancel my booking for tomorrow s dinner
+__label__Review the real disappointment was our waiter
+__label__edit_order can you change my drink to a food and add a food
+__label__new_order start a new food selection process
+__label__add_order i d like to order a food and a food
+__label__welcome morning excited to see you
+__label__complete_order secured my items
+__label__add_order moreover include 2 food and also 4 food
+__label__check_order what s the scoop on my order
+__label__cancel_reservation i need to cancel my reservation for thursday brunch
+__label__add_order can you add an extra order of food please
+__label__cancel_reservation i need to cancel my table for tomorrow
+__label__welcome hi welcome to the act
+__label__add_order the last meal is one food
+__label__Review i went to bachi burger on a friend's recommendation and was not disappointed
+__label__check_order please provide me with the status of my order
+__label__Edit_Reservation i want the reservation changed please
+__label__add_order so good you have a vegitables soup so give me one
+__label__welcome hi there
+__label__Review i have eaten here multiple times and each time the food was delicious
+__label__add_reservation need a reservation for four at three am
+__label__new_order please start a new order for my food
+__label__new_order i want to commence a new food order
+__label__Review i don't know what kind it is but they have the best iced tea
+__label__add_reservation booking a table for two at two am
+__label__cancel_reservation can you cancel my reservation for breakfast
+__label__cancel_reservation_ i need to cancel my saturday brunch table for next month
+__label__menu_request get the menu over here now
+__label__cancel_reservation can you cancel my booking for this evening
+__label__Edit_Reservation please adjust my reservation for tomorrow
+__label__add_order give me 2 food one food
+__label__check_order can you please look into my order status
+__label__new_order i d like to initiate a fresh dining request
+__label__cancel_reservation please cancel my booking for friday dinner
+__label__check_order please inform me about the status of my order as soon as possible
+__label__remove_order remove food from my order
+__label__edit_order substitute the food with a food
+__label__check_order please tell me the current standing of my order
+__label__edit_order i want to replace food with two food
+__label__menu_request give us that menu now
+__label__menu_request could you possibly show me the menu please
+__label__add_order i d like one food without any salt please
+__label__remove_order exclude the food
+__label__cancel_reservation_ i need to cancel my monday lunch booking for next week
+__label__remove_order can you take out the food
+__label__menu_request would you be able to assist us with the menu please
+__label__complete_order successfully placed my order
+__label__Review i can take a little bad service but the food sucks
+__label__Review the food is delicious and just spicy enough so be sure to ask for spicier if you prefer it that way
+__label__add_order lets take one vegitables soup also i want one more food
+__label__add_reservation how do i set up a meeting
+__label__Review overpriced for what you are getting
+__label__remove_order please cancel the food
+__label__add_order include 3 foodes and also 4 foodes
+__label__add_order i d like to place an order for a food and a food
+__label__new_order let s start a fresh food ordering session
+__label__complete_order fulfilled my order
+__label__check_order can you please verify the current status of my order
+__label__complete_order satisfied with my meal decisions thank you
+__label__Edit_Reservation change my booking to include more guests
+__label__add_reservation booking a table for four at one am
+__label__add_order i d like to order main dish and dessert for delivery for main dish i want food and for dessert i want to food
+__label__complete_order satisfied with my meal picks thank you
+__label__remove_order exclude the food
+__label__edit_order substitute the food with a food and remove two food food and food
+__label__complete_order ready to enjoy my meal
+__label__cancel_reservation can you cancel my booking for sunday
+__label__check_order tell me immediately where my order is
+__label__check_order investigate the status of my order now
+__label__Review not tasty and the texture was just nasty
+__label__edit_order if you can please i want to replace the food with food
+__label__menu_request can you get me the menu please
+__label__new_order i d like to set up a new food order process
+__label__add_order can you include a vegitables soup and a food with my meal
+__label__menu_request can we have the menu
+__label__new_order i'm hungry enough to phone in an order
+__label__Review to summarize the food was incredible nay transcendant but nothing brings me joy quite like the memory of the pneumatic condiment dispenser
+__label__add_reservation reserving a spot for three at eight pm
+__label__remove_order can you please remove the food
+__label__Edit_Reservation is it possible to update my reservation please
+__label__new_order i want to commence a new food request
+__label__Review i've had better bagels from the grocery store
+__label__add_order don t forget to add the appitizer to my order a delicious food
+__label__menu_request present us with the menu immediately
+__label__check_order please update me on where my order stands
+__label__menu_request we re still waiting bring the menu now
+__label__menu_request can i check the menu please
+__label__check_order let me know if there are any updates on my order
+__label__remove_order please omit the food
+__label__menu_request may i take a look at the menu when you have time
+__label__add_order could you include a food with my meal
+__label__welcome good evening how's everything
+__label__Review the service here is fair at best
+__label__new_order i want to place an order from scratch
+__label__add_order i want 1 food 2 foods and one food do it fast please
+__label__remove_order don't include food
+__label__add_reservation how do i book a table
+__label__add_order can i get a food with a side of food and additionally 1 food
+__label__Review he was extremely rude and really there are so many other restaurants i would love to dine at during a weekend in vegas
+__label__Review lobster bisque bussell sprouts risotto filet all needed salt and pepper and of course there is none at the tables
+__label__remove_order i'd like to remove the food
+__label__Review never had anything to complain about here
+__label__add_order can i get 3 vegitables soup along with one fanta bottle and 1 food
+__label__welcome morning paramedic emergency call
+__label__Review things that went wrong they burned the saganaki
+__label__add_reservation booking a table for four at nine pm
+__label__cancel_reservation i won t be able to attend so please void my reservation
+__label__add_reservation i want to reserve a table for number people
+__label__menu_request can you hook us up with the menu
+__label__menu_request why don t we have the menu yet
+__label__cancel_reservation_ i need to cancel my table for this wednesday evening
+__label__cancel_reservation i regret to inform you that i must cancel my dinner plans for tonight
+__label__welcome hello butcher carving skills
+__label__add_order one food one food and 1 food
+__label__Review the servers went back and forth several times not even so much as an are you being helped
+__label__Review the refried beans that came with my meal were dried out and crusty and the food was bland
+__label__welcome hi how's the world treating you
+__label__cancel_reservation i need to cancel my weekend booking
+__label__add_order i want more of fanta bottle so increase its count to four
+__label__remove_order can you take out the food
+__label__add_reservation can i arrange an appointment
+__label__menu_request show us the menu immediately
+__label__cancel_reservation_ could you cancel my brunch booking for next tuesday
+__label__check_order please give me a detailed status on my order
+__label__new_order i want to kick off a fresh food order
+__label__welcome good day poet verses flowing
+__label__edit_order if you can please add a food and remove the food
+__label__edit_order substitute the food with a food
+__label__add_order i d like to order three food and pepsi
+__label__add_reservation booking a table for six at two am
+__label__add_reservation need a reservation for ten at seven am
+__label__new_order i need to get a new food order underway
+__label__complete_order purchase finalized no more
+__label__add_reservation reserving a spot for nine at nine pm
+__label__new_order help me place a new order for food
+__label__Edit_Reservation could you please tell me how to edit my reservation
+__label__add_reservation need a reservation for seven at seven am
+__label__Review seems like a good quick place to grab a bite of some familiar pub food but do yourself a favor and look elsewhere
+__label__complete_order finalized my meal choices
+__label__complete_order no more adjustments for me thanks
+__label__cancel_reservation could you cancel my saturday dinner booking
+__label__check_order provide the details of my order status
+__label__complete_order secured my meal orders
+__label__menu_request where s our menu we re waiting
+__label__edit_order change my soup to the vegitables soup
+__label__Edit_Reservation change the booking time for me
+__label__add_reservation need a reservation for seven at eleven pm
+__label__Review if you love authentic mexican food and want a whole bunch of interesting yet delicious meats to choose from you need to try this place
+__label__welcome hiya lovely to see you
+__label__edit_order for my order add a food and remove the food
+__label__welcome morning excited to see you
+__label__remove_order please cancel the food
+__label__complete_order picked what i needed
+__label__edit_order i d like to switch my drink to a food and add a food
+__label__check_order confirm the current status of my order
+__label__cancel_reservation please cancel my dinner plans for tonight
+__label__welcome hey how's the day treating you
+__label__check_order please advise me on the status of my order
+__label__menu_request could you assist us with the menu
+__label__edit_order for my order remove the food and add a food
+__label__Review both the hot sour the egg flower soups were absolutely 5 stars
+__label__add_order 3 food 2 food 1 food
+__label__add_reservation booking a table for nine at two am
+__label__cancel_reservation_ please cancel my tuesday dinner table for next month
+__label__add_reservation reserving a spot for five at five am
+__label__Review couldn't ask for a more satisfying meal
+__label__add_reservation reserving a spot for five at eight pm
+__label__welcome hello welcome to the wind
+__label__Review the menu is always changing food quality is going down service is extremely slow
+__label__add_order for main meal give me one food for appitizer let me take one food finally for dessert add food
+__label__welcome hello welcome to the galaxy
+__label__Review my boyfriend and i came here for the first time on a recent trip to vegas and could not have been more pleased with the quality of food and service
+__label__remove_order delete food from my order
+__label__new_order let s kick off a new food order process
+__label__Edit_Reservation make changes to my reservation
+__label__cancel_reservation please cancel my lunch reservation for today
+__label__Review very convenient since we were staying at the mgm
+__label__cancel_reservation please delete my sunday afternoon booking
+__label__cancel_reservation_ could you cancel my dinner booking for next wednesday
+__label__remove_order please cancel the food
+__label__welcome morning pleased to see you
+__label__Review he came running after us when he realized my husband had left his sunglasses on the table
+__label__edit_order i want to substitute the fanta bottle with food also want to edit the count of food to be two
+__label__new_order could you assist with a new food order
+__label__new_order help me get a fresh dining request started
+__label__Review their regular toasted bread was equally satisfying with the occasional pats of butter mmmm
+__label__add_order one vegitables soup exactly and two foodes for appetizer
+__label__Review ryan's bar is definitely one edinburgh establishment i won't be revisiting
+__label__check_order check on my order and let me know what s happening
+__label__Review the fries were great too
+__label__cancel_reservation_ please cancel my dinner booking for next thursday night
+__label__Review this one is simply a disappointment
+__label__welcome hey what's the story
+__label__edit_order please change my entire order to four foods and one food
+__label__remove_order please omit the food
+__label__edit_order substitute the food with a fanta bottle
+__label__add_order 3 foods along with one food and 1 food
+__label__cancel_reservation how do i cancel my table
+__label__complete_order made my final meal selection
+__label__check_order please provide an update regarding my order status
+__label__add_order moreover include 2 food
+__label__Review great subway in fact it's so good when you come here every other subway will not meet your expectations
+__label__add_order i want 1 food 2 foods and one food do it fast please also another one of food
+__label__remove_order could you take off the food from my order
+__label__add_order i need to add a drink with my meal so get me a food please
+__label__complete_order satisfied with my meal picks thank you
+__label__check_order provide me with the latest information on my order
+__label__complete_order completed my order
+__label__complete_order no extra purchases planned
+__label__Review phenomenal food service and ambiance
+__label__add_order can i get a food with a side of food
+__label__menu_request can i get a quick look at the menu
+__label__new_order i d like to begin ordering something new
+__label__complete_order finalized my ordering decision
+__label__welcome hi hockey player puck to the net
+__label__add_reservation reserving a spot for ten at five pm
+__label__complete_order order processed thank you
+__label__welcome hey what's the forecast
+__label__edit_order i'd like to change my entire order to four foods and two foodes
+__label__add_reservation need a reservation for five at seven pm
+__label__add_reservation booking a table for nine at two pm
+__label__add_order i need one more vegitables soup
+__label__Review the selection was probably the worst i've seen in vegas there was none
+__label__menu_request where s that menu we asked for
+__label__check_order please tell me about the current stage of my order
+__label__menu_request we need a menu
+__label__new_order i want to initiate a new food order
+__label__add_reservation reserving a spot for seven at eight am
+__label__remove_order cancel the food
+__label__Review i also decided not to send it back because our waitress looked like she was on the verge of having a heart attack
+__label__Edit_Reservation i d like to move my reservation
+__label__Review everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter
+__label__complete_order no more browsing for me thanks
+__label__check_order please check on my order and provide me with any new details
+__label__cancel_reservation_ could you cancel my friday night table for tonight
+__label__Edit_Reservation i need to update my reservation
+__label__add_order include 3 foodes and also 4 foodes
+__label__welcome hey what's the story
+__label__remove_order please omit the food
+__label__new_order i m ready to place a fresh food order
+__label__edit_order can you change my order to be two foods and one food
+__label__add_order include 3 foodes and also 4 foodes
+__label__menu_request bring the menu over
+__label__edit_order i'd like to substitute the food with food
+__label__Review service was slow and not attentive
+__label__Review i think this restaurant suffers from not trying hard enough
+__label__cancel_reservation_ i need to call off my table
+__label__complete_order all done with my meal planning
+__label__cancel_reservation_ please cancel my reservation for next monday night
